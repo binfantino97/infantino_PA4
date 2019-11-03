@@ -1,0 +1,8 @@
+b 3
+r 1
+s 1
+d 1
+t 2
+w 1
+hello 2
+bye 1
